@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [fpsmath](https://github.com/animafps/fpsmath), [glicko2.ts](https://github.com/animafps/glicko2.ts), [fov-utilities](https://github.com/animafps/fov-utilities)
-
-- 🌱 I’m currently learning **Typescript, Rust**
+- 🔭 I’m currently working on [fpsmath](https://github.com/animafps/fpsmath), [fov-utilities](https://github.com/animafps/fov-utilities), [blur](https://github.com/animafps/blur)
+- 🌱 I’m currently learning **Rust**
 - 📰 Blog/Articles: https://animafps.xyz
+- 📫 How to reach me: contact@animafps.xyz
+- 😄 Pronouns: he/him
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animafps&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=animafps&theme=dracula) 
