@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [fpsmath](https://github.com/animafps/fpsmath), [fov-utilities](https://github.com/animafps/fov-utilities), [teres](https://github.com/animafps/teres)
+- 🔭 I’m currently working on [teres](https://github.com/animafps/teres)
 - 🌱 I’m currently learning **Rust**
 - 📰 Blog/Articles: https://animafps.xyz
 - 📫 How to reach me: contact@animafps.xyz
