@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Anima..</h1>
 
-<h3 align="center">A passionate 18y/o developer from New Zealand</h3>
+<h3 align="center">A passionate 19y/o developer from New Zealand</h3>
 
 <!--
 **animafps/animafps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
