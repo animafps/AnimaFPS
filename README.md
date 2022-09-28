@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contact@animafps.xyz
 - 😄 Pronouns: he/him
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=animafps&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="anima's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animafps&layout=compact&theme=tokyonight&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=animafps&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=false" alt="anima's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animafps&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=UnFraGed" /> |
 | ------------- | ------------- |
